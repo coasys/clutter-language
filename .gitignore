@@ -5,5 +5,7 @@ build
 dist-mew
 dist-mew-constructor
 !main.js
+!get-dna.js
 !rollup.config.icons.dev.js
 !rollup.config.icons.js
+*.dna
